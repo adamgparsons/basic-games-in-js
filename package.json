@@ -1,0 +1,13 @@
+{
+  "name": "basic-games-in-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adam Parsons <adam@adamparsons.me>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "scripts": {
+    "memory-game": "parcel memory-game/index.html"
+  }
+}

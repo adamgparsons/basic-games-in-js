@@ -155,9 +155,9 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function newGame() {
-    grid.remove();
-    currentScore = 0;
+    // todo: remove previous board
     createBoard();
+    currentScore = 0;
     endGameDisplay.style.display = "none";
   }
   createBoard();

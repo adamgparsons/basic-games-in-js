@@ -9,5 +9,8 @@
   },
   "scripts": {
     "memory-game": "parcel memory-game/index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-image": "2.0.0-rc.0"
   }
 }

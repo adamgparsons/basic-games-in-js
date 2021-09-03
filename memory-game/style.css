@@ -1,0 +1,14 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 300px;
+  width: 400px;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.card-hidden {
+  cursor: none;
+}

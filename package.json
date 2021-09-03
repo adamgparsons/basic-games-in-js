@@ -8,7 +8,8 @@
     "parcel": "^2.0.0-rc.0"
   },
   "scripts": {
-    "memory-game": "parcel memory-game/index.html"
+    "memory-game": "parcel memory-game/index.html",
+    "whack-a-mole": "parcel whack-a-mole/index.html"
   },
   "devDependencies": {
     "@parcel/transformer-image": "2.0.0-rc.0"
